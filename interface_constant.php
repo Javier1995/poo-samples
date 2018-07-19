@@ -9,10 +9,5 @@ echo 'Javier Quiroga almeida';
 
 echo"cheo es la verga";
 echo 'Hola';
-<<<<<<< HEAD
-
-
-echo "line verga";
-=======
 echo 'Hola';
->>>>>>> daf285d023b30b069a71cfffb9772385b54d7093
+echo " putito";
